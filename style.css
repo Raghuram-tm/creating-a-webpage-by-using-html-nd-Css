@@ -1,0 +1,26 @@
+.class{
+    color: rgb(247, 22, 22);
+    font-size: 30px;
+    text-decoration: under line;
+    margin-right:30px;
+    
+}
+.still{
+    color: rgb(189, 114, 29);
+    
+    
+}
+.class:link{
+  color:rgb(247, 22, 22)
+}
+.class:visited{
+    color: rgb(247, 22, 22);
+}
+.class:hover{
+    background-color: rgb(27, 23, 25);
+    
+}
+.style{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
